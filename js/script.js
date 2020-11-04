@@ -591,8 +591,11 @@
         musicBtn.on("click", function() {
             musicBox.toggleClass("toggle-music-box");
             return false;
+
         })
     }
+		
+
 
 
     /*------------------------------------------
