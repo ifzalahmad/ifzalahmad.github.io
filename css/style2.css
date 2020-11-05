@@ -4270,4 +4270,25 @@ a:focus {
   border-radius: 0;
 }
 
+
+
+/* new section added ifzal */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: cyan;
+}
 /*# sourceMappingURL=style.css.map */
